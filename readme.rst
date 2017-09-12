@@ -29,13 +29,18 @@ guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide
 Server Requirements
 *******************
 
-PHP version 5.6 or newer is recommended.
-CodeIgniter Version 3.1.5
-Guide Language: https://www.sitepoint.com/multi-language-support-in-codeigniter/
+- PHP version 5.6 or newer is recommended.
+- CodeIgniter Version 3.1.5
 
 It should work on 5.3.7 as well, but we strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
+
+*******************
+Guide Multi Language
+*******************
+
+https://www.sitepoint.com/multi-language-support-in-codeigniter/
 
 ************
 Installation
